@@ -2,6 +2,8 @@
 
 My Data Structures and Algorithms practice in C++.
 
+I solve coding problems regularly to improve my problem-solving and algorithmic thinking skills.
+
 ## Topics
 
 - Arrays
@@ -9,12 +11,19 @@ My Data Structures and Algorithms practice in C++.
 - Searching
 - Sorting
 - Recursion
-- Stack
-- Queue
+- Stack & Queue
 - Linked List
 - Trees
-- Basic Problem Solving
+- Dynamic Programming
+- Greedy Algorithms
 
-## Goal
+## Practice
 
-Practice DSA regularly and improve problem-solving skills.
+- LeetCode problems
+- Interview-style coding problems
+- Algorithm implementation
+- Problem-solving practice
+
+## Language
+
+C++
